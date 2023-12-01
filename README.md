@@ -9,9 +9,9 @@
 ### Requirements for requirements
 ### Internal consistency through self verification 
 ### Iteration #0
-*initial integration of source quality criteria*
-*self verification*
-*improvements*
+1. *initial integration of source quality criteria*
+2. *self verification*
+3. *improvements*
 ### Iteration #1
 ### Iteration #2
 ### Iteration #3
