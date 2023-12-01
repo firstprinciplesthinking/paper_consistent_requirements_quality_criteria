@@ -8,6 +8,10 @@
 ## Quality criteria for requirements
 ### Requirements for requirements
 ### Internal consistency through self verification 
+### Iteration #0
+*initial integration of source quality criteria*
+*self verification*
+*improvements*
 ### Iteration #1
 ### Iteration #2
 ### Iteration #3
