@@ -16,11 +16,11 @@
 ### Diagrams as requirements 
 ## Quality criteria for requirements
 ### Requirements for requirements
-### Internal consistency through self verification 
+### Internal consistency through self verification
+### Development procedure
+## Iterations
 ### Iteration #0
-1. *initial integration of source quality criteria*
-2. *self verification*
-3. *improvements*
+1. 
 ### Iteration #1
 ### Iteration #2
 ### Iteration #3
